@@ -94,3 +94,11 @@ The included `data/emails.csv` is a small, hand-prepared educational sample data
 - Developed an interactive Streamlit dashboard for email testing.
 
 Only include model performance numbers on your resume after retraining and checking the generated `metrics.json`.
+
+## Application Preview
+
+### Spam Email Detection
+![Spam Detection](screenshots/spam-email.png)
+
+### Legitimate Email Detection
+![Legitimate Email](screenshots/normal-email.png)
