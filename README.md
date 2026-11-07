@@ -98,7 +98,7 @@ Only include model performance numbers on your resume after retraining and check
 ## Application Preview
 
 ### Spam Email Detection
-![Spam Detection](screenshots/spam-email.png)
+![Spam Detection](screenshots/Spam-email.png)
 
 ### Legitimate Email Detection
-![Legitimate Email](screenshots/normal-email.png)
+![Legitimate Email](screenshots/Normal-email.png)
