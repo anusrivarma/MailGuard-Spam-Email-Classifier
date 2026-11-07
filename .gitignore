@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+spam_classifier.joblib
+metrics.json
+.streamlit/

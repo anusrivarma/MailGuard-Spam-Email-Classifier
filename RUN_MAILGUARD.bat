@@ -1,0 +1,9 @@
+@echo off
+cd /d "%~dp0"
+echo Installing project requirements...
+python -m pip install -r requirements.txt
+echo Training the spam classifier...
+python train_model.py
+echo Starting MailGuard...
+python -m streamlit run app.py
+pause
